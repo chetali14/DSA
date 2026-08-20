@@ -16,4 +16,8 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetali14/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/chetali14/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
