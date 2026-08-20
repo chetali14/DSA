@@ -20,4 +20,12 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chetali14/DSA/tree/master/0009-palindrome-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/chetali14/DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/chetali14/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
