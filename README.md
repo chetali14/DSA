@@ -44,6 +44,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetali14/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chetali14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/chetali14/DSA/tree/master/0968-binary-tree-cameras) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/chetali14/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0968-binary-tree-cameras](https://github.com/chetali14/DSA/tree/master/0968-binary-tree-cameras) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/chetali14/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -153,17 +155,20 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0124-binary-tree-maximum-path-sum](https://github.com/chetali14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/chetali14/DSA/tree/master/0968-binary-tree-cameras) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/chetali14/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chetali14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/chetali14/DSA/tree/master/0968-binary-tree-cameras) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/chetali14/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chetali14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/chetali14/DSA/tree/master/0968-binary-tree-cameras) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/chetali14/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Design
 |  |
 | ------- |
