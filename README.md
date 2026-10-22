@@ -37,6 +37,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0417-pacific-atlantic-water-flow](https://github.com/chetali14/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chetali14/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/chetali14/DSA/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/chetali14/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/chetali14/DSA/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/chetali14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/chetali14/DSA/tree/master/0560-subarray-sum-equals-k) |
