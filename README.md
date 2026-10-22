@@ -82,6 +82,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chetali14/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/chetali14/DSA/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/chetali14/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chetali14/DSA/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/chetali14/DSA/tree/master/0072-edit-distance) |
@@ -151,6 +152,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0005-longest-palindromic-substring](https://github.com/chetali14/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/chetali14/DSA/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/chetali14/DSA/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/chetali14/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/chetali14/DSA/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
@@ -183,6 +185,7 @@ Trying to complete maximum type of question then completing the maximum number o
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chetali14/DSA/tree/master/0022-generate-parentheses) |
 | [0212-word-search-ii](https://github.com/chetali14/DSA/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
@@ -316,6 +319,7 @@ Trying to complete maximum type of question then completing the maximum number o
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chetali14/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Greedy
 |  |
