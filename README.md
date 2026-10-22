@@ -17,6 +17,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chetali14/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chetali14/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetali14/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chetali14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chetali14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0212-word-search-ii](https://github.com/chetali14/DSA/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chetali14/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -57,6 +58,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0002-add-two-numbers](https://github.com/chetali14/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chetali14/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/chetali14/DSA/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chetali14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
@@ -313,6 +315,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chetali14/DSA/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chetali14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/chetali14/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0726-number-of-atoms](https://github.com/chetali14/DSA/tree/master/0726-number-of-atoms) |
