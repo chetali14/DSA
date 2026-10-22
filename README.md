@@ -51,6 +51,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chetali14/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/chetali14/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetali14/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/chetali14/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/chetali14/DSA/tree/master/0061-rotate-list) |
@@ -70,6 +71,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chetali14/DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/chetali14/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/chetali14/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/chetali14/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/chetali14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
