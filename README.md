@@ -33,6 +33,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chetali14/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/chetali14/DSA/tree/master/0327-count-of-range-sum) |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0414-third-maximum-number](https://github.com/chetali14/DSA/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/chetali14/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0480-sliding-window-median](https://github.com/chetali14/DSA/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/chetali14/DSA/tree/master/0493-reverse-pairs) |
@@ -274,6 +275,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0075-sort-colors](https://github.com/chetali14/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chetali14/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0414-third-maximum-number](https://github.com/chetali14/DSA/tree/master/0414-third-maximum-number) |
 | [0726-number-of-atoms](https://github.com/chetali14/DSA/tree/master/0726-number-of-atoms) |
 ## Heap (Priority Queue)
 |  |
