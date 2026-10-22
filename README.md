@@ -83,6 +83,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0086-partition-list](https://github.com/chetali14/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/chetali14/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/chetali14/DSA/tree/master/0143-reorder-list) |
+| [0344-reverse-string](https://github.com/chetali14/DSA/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +212,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/chetali14/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0344-reverse-string](https://github.com/chetali14/DSA/tree/master/0344-reverse-string) |
 | [0726-number-of-atoms](https://github.com/chetali14/DSA/tree/master/0726-number-of-atoms) |
 ## Breadth-First Search
 |  |
