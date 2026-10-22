@@ -8,6 +8,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0001-two-sum](https://github.com/chetali14/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/chetali14/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/chetali14/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetali14/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chetali14/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chetali14/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -51,6 +52,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chetali14/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/chetali14/DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chetali14/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetali14/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/chetali14/DSA/tree/master/0042-trapping-rain-water) |
@@ -347,6 +349,7 @@ Trying to complete maximum type of question then completing the maximum number o
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chetali14/DSA/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/chetali14/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
 |  |
