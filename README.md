@@ -42,6 +42,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0010-regular-expression-matching](https://github.com/chetali14/DSA/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/chetali14/DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetali14/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chetali14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Trying to complete maximum type of question then completing the maximum number o
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chetali14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
 ## Graph Theory
 |  |
@@ -140,4 +142,16 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chetali14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chetali14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chetali14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
