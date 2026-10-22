@@ -35,6 +35,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0414-third-maximum-number](https://github.com/chetali14/DSA/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/chetali14/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chetali14/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/chetali14/DSA/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/chetali14/DSA/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/chetali14/DSA/tree/master/0503-next-greater-element-ii) |
@@ -58,6 +59,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0133-clone-graph](https://github.com/chetali14/DSA/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/chetali14/DSA/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/chetali14/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chetali14/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/chetali14/DSA/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/chetali14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/chetali14/DSA/tree/master/0726-number-of-atoms) |
