@@ -13,12 +13,14 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chetali14/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/chetali14/DSA/tree/master/0327-count-of-range-sum) |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0480-sliding-window-median](https://github.com/chetali14/DSA/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/chetali14/DSA/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chetali14/DSA/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
+| [0480-sliding-window-median](https://github.com/chetali14/DSA/tree/master/0480-sliding-window-median) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chetali14/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/chetali14/DSA/tree/master/0327-count-of-range-sum) |
+| [0480-sliding-window-median](https://github.com/chetali14/DSA/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/chetali14/DSA/tree/master/0493-reverse-pairs) |
 ## String
 |  |
@@ -137,6 +140,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0480-sliding-window-median](https://github.com/chetali14/DSA/tree/master/0480-sliding-window-median) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -173,4 +177,8 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/chetali14/DSA/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
