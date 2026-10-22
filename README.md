@@ -30,6 +30,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chetali14/DSA/tree/master/0009-palindrome-number) |
+| [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0010-regular-expression-matching](https://github.com/chetali14/DSA/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/chetali14/DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0072-edit-distance](https://github.com/chetali14/DSA/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/chetali14/DSA/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
 ## Breadth-First Search
@@ -191,6 +194,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
 ## Bracket Sequences
 |  |
 | ------- |
