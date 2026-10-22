@@ -115,6 +115,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0143-reorder-list](https://github.com/chetali14/DSA/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/chetali14/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chetali14/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/chetali14/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/chetali14/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chetali14/DSA/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/chetali14/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -128,6 +129,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0024-swap-nodes-in-pairs](https://github.com/chetali14/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/chetali14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/chetali14/DSA/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/chetali14/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/chetali14/DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
