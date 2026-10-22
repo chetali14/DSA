@@ -88,6 +88,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0141-linked-list-cycle](https://github.com/chetali14/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/chetali14/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chetali14/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/chetali14/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/chetali14/DSA/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -117,6 +118,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0160-intersection-of-two-linked-lists](https://github.com/chetali14/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/chetali14/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/chetali14/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/chetali14/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chetali14/DSA/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/chetali14/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1670-design-front-middle-back-queue](https://github.com/chetali14/DSA/tree/master/1670-design-front-middle-back-queue) |
@@ -132,6 +134,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0203-remove-linked-list-elements](https://github.com/chetali14/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/chetali14/DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/chetali14/DSA/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -388,6 +391,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0143-reorder-list](https://github.com/chetali14/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetali14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/chetali14/DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/chetali14/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/chetali14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/chetali14/DSA/tree/master/0726-number-of-atoms) |
