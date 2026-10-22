@@ -16,6 +16,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chetali14/DSA/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +79,16 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chetali14/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/chetali14/DSA/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/chetali14/DSA/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
