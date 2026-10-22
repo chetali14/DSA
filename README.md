@@ -93,6 +93,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0160-intersection-of-two-linked-lists](https://github.com/chetali14/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/chetali14/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/chetali14/DSA/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/chetali14/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/chetali14/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -235,6 +236,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0344-reverse-string](https://github.com/chetali14/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetali14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0726-number-of-atoms](https://github.com/chetali14/DSA/tree/master/0726-number-of-atoms) |
+| [0844-backspace-string-compare](https://github.com/chetali14/DSA/tree/master/0844-backspace-string-compare) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -409,6 +411,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0726-number-of-atoms](https://github.com/chetali14/DSA/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/chetali14/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chetali14/DSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/chetali14/DSA/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -524,6 +527,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0054-spiral-matrix](https://github.com/chetali14/DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/chetali14/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/chetali14/DSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/chetali14/DSA/tree/master/0844-backspace-string-compare) |
 ## Prefix Sum
 |  |
 | ------- |
