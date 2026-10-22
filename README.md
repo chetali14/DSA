@@ -44,6 +44,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0496-next-greater-element-i](https://github.com/chetali14/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chetali14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/chetali14/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/chetali14/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/chetali14/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/chetali14/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chetali14/DSA/tree/master/0739-daily-temperatures) |
@@ -404,6 +405,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0316-remove-duplicate-letters](https://github.com/chetali14/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/chetali14/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chetali14/DSA/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/chetali14/DSA/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/chetali14/DSA/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/chetali14/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chetali14/DSA/tree/master/0739-daily-temperatures) |
@@ -520,6 +522,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/chetali14/DSA/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/chetali14/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/chetali14/DSA/tree/master/0735-asteroid-collision) |
 ## Prefix Sum
 |  |
