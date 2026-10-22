@@ -60,6 +60,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chetali14/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/chetali14/DSA/tree/master/0133-clone-graph) |
+| [0141-linked-list-cycle](https://github.com/chetali14/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/chetali14/DSA/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/chetali14/DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/chetali14/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -83,6 +84,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chetali14/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/chetali14/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/chetali14/DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/chetali14/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/chetali14/DSA/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/chetali14/DSA/tree/master/0344-reverse-string) |
 ## Math
@@ -107,6 +109,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chetali14/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/chetali14/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/chetali14/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/chetali14/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/chetali14/DSA/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/chetali14/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/chetali14/DSA/tree/master/0206-reverse-linked-list) |
@@ -506,4 +509,8 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/chetali14/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/chetali14/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
