@@ -105,6 +105,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0212-word-search-ii](https://github.com/chetali14/DSA/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0316-remove-duplicate-letters](https://github.com/chetali14/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
 ## Breadth-First Search
 |  |
@@ -195,8 +196,17 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
+| [0316-remove-duplicate-letters](https://github.com/chetali14/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0032-longest-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/chetali14/DSA/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/chetali14/DSA/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
