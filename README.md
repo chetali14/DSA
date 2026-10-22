@@ -12,6 +12,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0041-first-missing-positive](https://github.com/chetali14/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/chetali14/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetali14/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/chetali14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0212-word-search-ii](https://github.com/chetali14/DSA/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chetali14/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chetali14/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -69,6 +70,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chetali14/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/chetali14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chetali14/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/chetali14/DSA/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/chetali14/DSA/tree/master/0493-reverse-pairs) |
