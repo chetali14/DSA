@@ -17,6 +17,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0042-trapping-rain-water](https://github.com/chetali14/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/chetali14/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/chetali14/DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/chetali14/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/chetali14/DSA/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chetali14/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chetali14/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -259,6 +260,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0015-3sum](https://github.com/chetali14/DSA/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/chetali14/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/chetali14/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chetali14/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
@@ -383,6 +385,7 @@ Trying to complete maximum type of question then completing the maximum number o
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/chetali14/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/chetali14/DSA/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
