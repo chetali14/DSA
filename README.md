@@ -14,6 +14,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0041-first-missing-positive](https://github.com/chetali14/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/chetali14/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/chetali14/DSA/tree/master/0075-sort-colors) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chetali14/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chetali14/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetali14/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chetali14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -32,6 +33,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0001-two-sum](https://github.com/chetali14/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chetali14/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/chetali14/DSA/tree/master/0041-first-missing-positive) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chetali14/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chetali14/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/chetali14/DSA/tree/master/0133-clone-graph) |
@@ -97,6 +99,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chetali14/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/chetali14/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chetali14/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chetali14/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chetali14/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chetali14/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -243,6 +246,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/chetali14/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chetali14/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chetali14/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chetali14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/chetali14/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -256,6 +260,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/chetali14/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chetali14/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chetali14/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chetali14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/chetali14/DSA/tree/master/0199-binary-tree-right-side-view) |
