@@ -53,6 +53,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0005-longest-palindromic-substring](https://github.com/chetali14/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetali14/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/chetali14/DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/chetali14/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/chetali14/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chetali14/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/chetali14/DSA/tree/master/0086-partition-list) |
@@ -71,6 +72,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0002-add-two-numbers](https://github.com/chetali14/DSA/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/chetali14/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/chetali14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/chetali14/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chetali14/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/chetali14/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/chetali14/DSA/tree/master/0092-reverse-linked-list-ii) |
