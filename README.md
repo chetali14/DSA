@@ -27,6 +27,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chetali14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0212-word-search-ii](https://github.com/chetali14/DSA/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chetali14/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/chetali14/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/chetali14/DSA/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chetali14/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/chetali14/DSA/tree/master/0327-count-of-range-sum) |
@@ -465,4 +466,8 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0054-spiral-matrix](https://github.com/chetali14/DSA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/chetali14/DSA/tree/master/0735-asteroid-collision) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/chetali14/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
