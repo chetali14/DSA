@@ -9,6 +9,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0001-two-sum](https://github.com/chetali14/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/chetali14/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetali14/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/chetali14/DSA/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetali14/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0212-word-search-ii](https://github.com/chetali14/DSA/tree/master/0212-word-search-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chetali14/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -21,6 +22,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chetali14/DSA/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/chetali14/DSA/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/chetali14/DSA/tree/master/0146-lru-cache) |
 | [0480-sliding-window-median](https://github.com/chetali14/DSA/tree/master/0480-sliding-window-median) |
