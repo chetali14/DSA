@@ -61,6 +61,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/chetali14/DSA/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/chetali14/DSA/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/chetali14/DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/chetali14/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chetali14/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/chetali14/DSA/tree/master/0480-sliding-window-median) |
@@ -202,6 +203,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0072-edit-distance](https://github.com/chetali14/DSA/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/chetali14/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/chetali14/DSA/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/chetali14/DSA/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
