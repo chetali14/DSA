@@ -193,6 +193,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0010-regular-expression-matching](https://github.com/chetali14/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/chetali14/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/chetali14/DSA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/chetali14/DSA/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/chetali14/DSA/tree/master/0212-word-search-ii) |
