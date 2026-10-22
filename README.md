@@ -28,6 +28,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0417-pacific-atlantic-water-flow](https://github.com/chetali14/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0480-sliding-window-median](https://github.com/chetali14/DSA/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/chetali14/DSA/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/chetali14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/chetali14/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chetali14/DSA/tree/master/0739-daily-temperatures) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/chetali14/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -320,6 +321,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetali14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/chetali14/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/chetali14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/chetali14/DSA/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/chetali14/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chetali14/DSA/tree/master/0739-daily-temperatures) |
@@ -337,6 +339,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chetali14/DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/chetali14/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/chetali14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chetali14/DSA/tree/master/0739-daily-temperatures) |
 ## Tournament Sort
 |  |
