@@ -185,6 +185,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0133-clone-graph](https://github.com/chetali14/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/chetali14/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chetali14/DSA/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/chetali14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chetali14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
@@ -238,6 +239,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/chetali14/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chetali14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/chetali14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chetali14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/chetali14/DSA/tree/master/0437-path-sum-iii) |
@@ -248,6 +250,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/chetali14/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chetali14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/chetali14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chetali14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/chetali14/DSA/tree/master/0437-path-sum-iii) |
@@ -354,4 +357,8 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chetali14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/chetali14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
