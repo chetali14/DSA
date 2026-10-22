@@ -377,6 +377,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0146-lru-cache](https://github.com/chetali14/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/chetali14/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/chetali14/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1670-design-front-middle-back-queue](https://github.com/chetali14/DSA/tree/master/1670-design-front-middle-back-queue) |
 ## Sliding Window
@@ -396,6 +397,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetali14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/chetali14/DSA/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/chetali14/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/chetali14/DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/chetali14/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/chetali14/DSA/tree/master/0503-next-greater-element-ii) |
@@ -492,6 +494,7 @@ Trying to complete maximum type of question then completing the maximum number o
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/chetali14/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/chetali14/DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetali14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/chetali14/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
