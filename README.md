@@ -79,6 +79,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0075-sort-colors](https://github.com/chetali14/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chetali14/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/chetali14/DSA/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/chetali14/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/chetali14/DSA/tree/master/0143-reorder-list) |
 ## Math
 |  |
@@ -199,6 +200,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0032-longest-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/chetali14/DSA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/chetali14/DSA/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/chetali14/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/chetali14/DSA/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
