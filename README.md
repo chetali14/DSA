@@ -55,6 +55,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0042-trapping-rain-water](https://github.com/chetali14/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/chetali14/DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/chetali14/DSA/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/chetali14/DSA/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0023-merge-k-sorted-lists](https://github.com/chetali14/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/chetali14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/chetali14/DSA/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/chetali14/DSA/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/chetali14/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/chetali14/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chetali14/DSA/tree/master/0328-odd-even-linked-list) |
@@ -81,6 +83,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0002-add-two-numbers](https://github.com/chetali14/DSA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/chetali14/DSA/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/chetali14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/chetali14/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/chetali14/DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
@@ -319,6 +322,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chetali14/DSA/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/chetali14/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetali14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/chetali14/DSA/tree/master/0316-remove-duplicate-letters) |
