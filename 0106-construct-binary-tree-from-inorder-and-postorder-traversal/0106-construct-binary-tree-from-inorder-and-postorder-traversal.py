@@ -1,14 +1,16 @@
 class Solution(object):
     def buildTree(self, inorder, postorder):
         pos = {val: i for i, val in enumerate(inorder)}
-        idx = [len(postorder) - 1]
+        idx = len(postorder) - 1
 
         def build(left, right):
+            nonlocal idx
+
             if left > right:
                 return None
 
-            val = postorder[idx[0]]
-            idx[0] -= 1
+            val = postorder[idx]
+            idx -= 1
 
             root = TreeNode(val)
             mid = pos[val]
