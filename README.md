@@ -140,6 +140,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
+| [0207-course-schedule](https://github.com/chetali14/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chetali14/DSA/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/chetali14/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -168,6 +169,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chetali14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0207-course-schedule](https://github.com/chetali14/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chetali14/DSA/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
@@ -181,6 +183,7 @@ Trying to complete maximum type of question then completing the maximum number o
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/chetali14/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chetali14/DSA/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/chetali14/DSA/tree/master/0684-redundant-connection) |
@@ -287,6 +290,7 @@ Trying to complete maximum type of question then completing the maximum number o
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/chetali14/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chetali14/DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/chetali14/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
@@ -310,4 +314,8 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/chetali14/DSA/tree/master/0785-is-graph-bipartite) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/chetali14/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
