@@ -140,6 +140,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0684-redundant-connection](https://github.com/chetali14/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/chetali14/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/chetali14/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Bidirectional Search
@@ -166,6 +167,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/chetali14/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0684-redundant-connection](https://github.com/chetali14/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/chetali14/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/chetali14/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0968-binary-tree-cameras](https://github.com/chetali14/DSA/tree/master/0968-binary-tree-cameras) |
@@ -174,6 +176,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0684-redundant-connection](https://github.com/chetali14/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/chetali14/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/chetali14/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Sorting
@@ -289,6 +292,7 @@ Trying to complete maximum type of question then completing the maximum number o
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/chetali14/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/chetali14/DSA/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
 |  |
