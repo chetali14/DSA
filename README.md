@@ -36,11 +36,13 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chetali14/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/chetali14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/chetali14/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/chetali14/DSA/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/chetali14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/chetali14/DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
