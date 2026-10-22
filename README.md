@@ -49,6 +49,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetali14/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/chetali14/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/chetali14/DSA/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/chetali14/DSA/tree/master/0086-partition-list) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0002-add-two-numbers](https://github.com/chetali14/DSA/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/chetali14/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/chetali14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0086-partition-list](https://github.com/chetali14/DSA/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/chetali14/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/chetali14/DSA/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/chetali14/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
