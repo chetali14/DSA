@@ -21,6 +21,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0001-two-sum](https://github.com/chetali14/DSA/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/chetali14/DSA/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/chetali14/DSA/tree/master/0146-lru-cache) |
 | [0480-sliding-window-median](https://github.com/chetali14/DSA/tree/master/0480-sliding-window-median) |
 | [0726-number-of-atoms](https://github.com/chetali14/DSA/tree/master/0726-number-of-atoms) |
 ## Two Pointers
@@ -37,6 +38,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chetali14/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/chetali14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/chetali14/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/chetali14/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -195,6 +197,7 @@ Trying to complete maximum type of question then completing the maximum number o
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/chetali14/DSA/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sliding Window
 |  |
@@ -223,4 +226,8 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chetali14/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/chetali14/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
