@@ -229,6 +229,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0006-zigzag-conversion](https://github.com/chetali14/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/chetali14/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/chetali14/DSA/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chetali14/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/chetali14/DSA/tree/master/0058-length-of-last-word) |
@@ -410,6 +411,7 @@ Trying to complete maximum type of question then completing the maximum number o
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chetali14/DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/chetali14/DSA/tree/master/0071-simplify-path) |
@@ -432,6 +434,7 @@ Trying to complete maximum type of question then completing the maximum number o
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chetali14/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Greedy
