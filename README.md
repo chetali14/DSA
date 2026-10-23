@@ -106,6 +106,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0048-rotate-image](https://github.com/chetali14/DSA/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetali14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chetali14/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -131,6 +132,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0328-odd-even-linked-list](https://github.com/chetali14/DSA/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/chetali14/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chetali14/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chetali14/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1670-design-front-middle-back-queue](https://github.com/chetali14/DSA/tree/master/1670-design-front-middle-back-queue) |
 ## Recursion
 |  |
