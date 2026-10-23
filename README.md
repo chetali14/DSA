@@ -32,6 +32,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0219-contains-duplicate-ii](https://github.com/chetali14/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/chetali14/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/chetali14/DSA/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/chetali14/DSA/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chetali14/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/chetali14/DSA/tree/master/0327-count-of-range-sum) |
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
@@ -92,6 +93,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0143-reorder-list](https://github.com/chetali14/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chetali14/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/chetali14/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/chetali14/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/chetali14/DSA/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/chetali14/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/chetali14/DSA/tree/master/0876-middle-of-the-linked-list) |
