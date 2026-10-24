@@ -276,6 +276,7 @@ Trying to complete maximum type of question then completing the maximum number o
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/chetali14/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/chetali14/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chetali14/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chetali14/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -317,6 +318,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chetali14/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/chetali14/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chetali14/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chetali14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/chetali14/DSA/tree/master/0133-clone-graph) |
@@ -389,6 +391,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chetali14/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/chetali14/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/chetali14/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chetali14/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chetali14/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -406,6 +409,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chetali14/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/chetali14/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/chetali14/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chetali14/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chetali14/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
