@@ -408,6 +408,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0232-implement-queue-using-stacks](https://github.com/chetali14/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/chetali14/DSA/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/chetali14/DSA/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/chetali14/DSA/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/chetali14/DSA/tree/master/1670-design-front-middle-back-queue) |
 ## Sliding Window
@@ -545,12 +546,14 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0239-sliding-window-maximum](https://github.com/chetali14/DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetali14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/chetali14/DSA/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/chetali14/DSA/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/chetali14/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1670-design-front-middle-back-queue](https://github.com/chetali14/DSA/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/chetali14/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/chetali14/DSA/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/chetali14/DSA/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/chetali14/DSA/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Queue
