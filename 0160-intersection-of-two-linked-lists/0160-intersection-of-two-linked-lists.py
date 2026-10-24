@@ -1,10 +1,11 @@
-class Solution(object):
+
+class Solution:
     def getIntersectionNode(self, headA, headB):
-        a = headA
-        b = headB
+        pA = headA
+        pB = headB
 
-        while a != b:
-            a = a.next if a else headB
-            b = b.next if b else headA
+        while pA != pB:
+            pA = pA.next if pA else headB
+            pB = pB.next if pB else headA
 
-        return a
+        return pA
