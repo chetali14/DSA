@@ -1,3 +1,7 @@
+
+# The isBadVersion(version) API is already provided.
+# You do not need to implement it.
+
 class Solution:
     def firstBadVersion(self, n):
         left = 1
