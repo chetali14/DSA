@@ -181,6 +181,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0033-search-in-rotated-sorted-array](https://github.com/chetali14/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chetali14/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chetali14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/chetali14/DSA/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chetali14/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/chetali14/DSA/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/chetali14/DSA/tree/master/0493-reverse-pairs) |
@@ -597,4 +598,8 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chetali14/DSA/tree/master/0141-linked-list-cycle) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/chetali14/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
