@@ -1,3 +1,4 @@
+
 class Solution:
     def mySqrt(self, x):
         left = 0
