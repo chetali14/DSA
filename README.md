@@ -252,6 +252,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0726-number-of-atoms](https://github.com/chetali14/DSA/tree/master/0726-number-of-atoms) |
 | [0844-backspace-string-compare](https://github.com/chetali14/DSA/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/chetali14/DSA/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chetali14/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -438,12 +439,14 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0844-backspace-string-compare](https://github.com/chetali14/DSA/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/chetali14/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/chetali14/DSA/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chetali14/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chetali14/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chetali14/DSA/tree/master/0032-longest-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chetali14/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
