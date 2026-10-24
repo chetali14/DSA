@@ -4,7 +4,7 @@ class Solution:
         first = head
 
         # Find the kth node from the beginning
-        for i in range(k - 1):
+        for _ in range(k - 1):
             first = first.next
 
         # Find the kth node from the end
@@ -15,7 +15,7 @@ class Solution:
             current = current.next
             second = second.next
 
-        # Swap the values
+        # Swap their values
         first.val, second.val = second.val, first.val
 
         return head
