@@ -52,6 +52,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0735-asteroid-collision](https://github.com/chetali14/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chetali14/DSA/tree/master/0739-daily-temperatures) |
 | [0997-find-the-town-judge](https://github.com/chetali14/DSA/tree/master/0997-find-the-town-judge) |
+| [1051-height-checker](https://github.com/chetali14/DSA/tree/master/1051-height-checker) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/chetali14/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/chetali14/DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1441-build-an-array-with-stack-operations](https://github.com/chetali14/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -347,6 +348,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0332-reconstruct-itinerary](https://github.com/chetali14/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0414-third-maximum-number](https://github.com/chetali14/DSA/tree/master/0414-third-maximum-number) |
 | [0726-number-of-atoms](https://github.com/chetali14/DSA/tree/master/0726-number-of-atoms) |
+| [1051-height-checker](https://github.com/chetali14/DSA/tree/master/1051-height-checker) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -501,6 +503,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chetali14/DSA/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/chetali14/DSA/tree/master/1051-height-checker) |
 ## Topological Sort
 |  |
 | ------- |
@@ -602,4 +605,8 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/chetali14/DSA/tree/master/0278-first-bad-version) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/chetali14/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
