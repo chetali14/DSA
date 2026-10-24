@@ -54,6 +54,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0997-find-the-town-judge](https://github.com/chetali14/DSA/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/chetali14/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/chetali14/DSA/tree/master/1122-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/chetali14/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/chetali14/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/chetali14/DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1441-build-an-array-with-stack-operations](https://github.com/chetali14/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -85,6 +86,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0726-number-of-atoms](https://github.com/chetali14/DSA/tree/master/0726-number-of-atoms) |
 | [0997-find-the-town-judge](https://github.com/chetali14/DSA/tree/master/0997-find-the-town-judge) |
 | [1122-relative-sort-array](https://github.com/chetali14/DSA/tree/master/1122-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/chetali14/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -352,6 +354,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0726-number-of-atoms](https://github.com/chetali14/DSA/tree/master/0726-number-of-atoms) |
 | [1051-height-checker](https://github.com/chetali14/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/chetali14/DSA/tree/master/1122-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/chetali14/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
