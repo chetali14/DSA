@@ -53,6 +53,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/chetali14/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/chetali14/DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1441-build-an-array-with-stack-operations](https://github.com/chetali14/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/chetali14/DSA/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/chetali14/DSA/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/chetali14/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
@@ -138,6 +139,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0622-design-circular-queue](https://github.com/chetali14/DSA/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/chetali14/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chetali14/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1472-design-browser-history](https://github.com/chetali14/DSA/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/chetali14/DSA/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/chetali14/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/chetali14/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -406,6 +408,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0232-implement-queue-using-stacks](https://github.com/chetali14/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chetali14/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/chetali14/DSA/tree/master/0622-design-circular-queue) |
+| [1472-design-browser-history](https://github.com/chetali14/DSA/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/chetali14/DSA/tree/master/1670-design-front-middle-back-queue) |
 ## Sliding Window
 |  |
@@ -439,6 +442,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0739-daily-temperatures](https://github.com/chetali14/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/chetali14/DSA/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/chetali14/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/chetali14/DSA/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/chetali14/DSA/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chetali14/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/chetali14/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -471,6 +475,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [0146-lru-cache](https://github.com/chetali14/DSA/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/chetali14/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/chetali14/DSA/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/chetali14/DSA/tree/master/1670-design-front-middle-back-queue) |
 ## Quickselect
 |  |
@@ -546,6 +551,7 @@ Trying to complete maximum type of question then completing the maximum number o
 ## Data Stream
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/chetali14/DSA/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/chetali14/DSA/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Queue
 |  |
