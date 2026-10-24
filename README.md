@@ -44,6 +44,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0485-max-consecutive-ones](https://github.com/chetali14/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/chetali14/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/chetali14/DSA/tree/master/0496-next-greater-element-i) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/chetali14/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0503-next-greater-element-ii](https://github.com/chetali14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/chetali14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/chetali14/DSA/tree/master/0622-design-circular-queue) |
@@ -121,6 +122,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0070-climbing-stairs](https://github.com/chetali14/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetali14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/chetali14/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chetali14/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Linked List
 |  |
@@ -194,6 +196,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chetali14/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/chetali14/DSA/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/chetali14/DSA/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/chetali14/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0704-binary-search](https://github.com/chetali14/DSA/tree/master/0704-binary-search) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/chetali14/DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 ## Divide and Conquer
@@ -232,6 +235,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chetali14/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/chetali14/DSA/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/chetali14/DSA/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/chetali14/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/chetali14/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Treap
 |  |
@@ -604,6 +608,7 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chetali14/DSA/tree/master/0238-product-of-array-except-self) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/chetali14/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0560-subarray-sum-equals-k](https://github.com/chetali14/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
@@ -630,4 +635,12 @@ Trying to complete maximum type of question then completing the maximum number o
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chetali14/DSA/tree/master/0070-climbing-stairs) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/chetali14/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Randomized
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/chetali14/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
