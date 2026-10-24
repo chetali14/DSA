@@ -117,6 +117,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0007-reverse-integer](https://github.com/chetali14/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/chetali14/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/chetali14/DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/chetali14/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetali14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/chetali14/DSA/tree/master/0224-basic-calculator) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chetali14/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -185,6 +186,7 @@ Trying to complete maximum type of question then completing the maximum number o
 | [0004-median-of-two-sorted-arrays](https://github.com/chetali14/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chetali14/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chetali14/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/chetali14/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chetali14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/chetali14/DSA/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chetali14/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -618,4 +620,8 @@ Trying to complete maximum type of question then completing the maximum number o
 | ------- |
 | [1051-height-checker](https://github.com/chetali14/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/chetali14/DSA/tree/master/1122-relative-sort-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/chetali14/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
