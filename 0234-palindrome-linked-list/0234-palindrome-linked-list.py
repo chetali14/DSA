@@ -1,12 +1,15 @@
-class Solution(object):
+
+class Solution:
     def isPalindrome(self, head):
         slow = head
         fast = head
 
+        # Find the middle of the linked list
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
 
+        # Reverse the second half
         prev = None
         while slow:
             nxt = slow.next
@@ -14,10 +17,14 @@ class Solution(object):
             prev = slow
             slow = nxt
 
-        while prev:
-            if head.val != prev.val:
+        # Compare both halves
+        left = head
+        right = prev
+
+        while right:
+            if left.val != right.val:
                 return False
-            head = head.next
-            prev = prev.next
+            left = left.next
+            right = right.next
 
         return True
